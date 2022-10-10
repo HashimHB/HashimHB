@@ -1,3 +1,5 @@
+<h1 align='center'> Hi! :wave:</h1>
+
 - 👋 Hi, I’m @HashimHB
 - 👀 I’m interested in Exploring and Learning new things.
 - 🌱 I’m currently learning Python & Java
@@ -5,8 +7,11 @@
 - 🏆 I like to play ⚽🎾🏏 🚴
 - 💖 🇸🇦/🇮🇳 
 
-![hashim](https://user-images.githubusercontent.com/78270317/194920576-b6dd9543-b18f-4af7-abfd-64b2673cadfb.jpg)
 
+
+
+<p align='center'>
+<h1 align='center'><i>Stay awesome!</i></h1>
 
 
 <!---
