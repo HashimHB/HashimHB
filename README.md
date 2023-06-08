@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashimhb&label=Profile%20views&color=0e75b6&style=flat" alt="hashimhb" /> </p>
 # 💫 About Me:
-I am Hashim from 3rd year. Student at Chennai Institute of Technology.I have a strong work ethic and I am a fast learner who largely wants to learn and explore new things. To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.<br>🔭 I’m currently working on Portfolio<br>🌱 I’m currently learning AWS,LINUX,HTML,CSS,JAVASCRIPT<br>📫 How to reach me hashimbasha97@gmail.com<br>📄 Know about my experiences https://resume.io/r/z42WdYetn
+🌱 I’m currently learning AWS,LINUX,HTML,CSS,JAVASCRIPT<br>📫 How to reach me hashimbasha97@gmail.com<br>📄 Know about my experiences https://resume.io/r/z42WdYetn
 
 
 ## 🌐 Socials:
