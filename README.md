@@ -29,4 +29,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HashimHB&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HashimHB&icon=4&color=6)](https://visitcount.itsvg.in)
