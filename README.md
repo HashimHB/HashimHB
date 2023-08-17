@@ -6,7 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=HashimHB&icon=4&color=6)](https://visitcount.itsvg.in)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashimhb&label=Profile%20views&color=0e75b6&style=flat" alt="hashimhb" /> </p> -->
 # 💫 About Me:
-🌱 I’m currently learning HTML,CSS,JAVASCRIPT<br>📫 How to reach me hashimbasha97@gmail.com<br>📄 Know about my experiences https://resume.io/r/z42WdYetn
+🌱 I’m currently learning Angular<br>📫 How to reach me hashimbasha97@gmail.com<br>📄 Know about my experiences https://resume.io/r/z42WdYetn
 
 
 ## 🌐 Socials:
