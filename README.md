@@ -96,4 +96,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HashimHB&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={HashimHB}&theme={zenburn})
+
 ---
