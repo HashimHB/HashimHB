@@ -92,6 +92,12 @@
 
 </div>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/CodeWithHB?theme=dark&font=Anek%20Kannada&ext=heatmap" alt="LeetCode Stats">
+</p>
+
+
+
 
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=HashimHB&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
