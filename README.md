@@ -92,7 +92,7 @@
 </div>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/CodeWithHB?theme=dark&font=Anek%20Kannada&ext=heatmap" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/HashimTheCoder?theme=dark&font=Anek%20Kannada&ext=heatmap" alt="LeetCode Stats">
 </p>
 
 
